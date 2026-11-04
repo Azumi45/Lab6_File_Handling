@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Celo
+Student ID: TUPM-26-1941
+Seed Digit: 1
+ID Sum: 23
+Verification Value: 93
+Dataset Sample Size: 73
+Valid Records: 73
+Average Global Active Power: 4.050
+JSON File: Celo_TUPM-26-1941_record.json
+Backup File: Celo_TUPM-26-1941_record.csv

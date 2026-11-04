@@ -1,0 +1,5 @@
+Student: Celo
+Student ID: TUPM-26-1941
+Seed digit: 1
+ID sum: 23
+Verification value: 93
