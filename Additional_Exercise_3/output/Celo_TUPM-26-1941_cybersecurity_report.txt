@@ -1,0 +1,8 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Target Year: 2016
+Incidents Count: 285
+Total Financial Loss: 13947.26 Million USD
+Average Financial Loss: 48.938 Million USD
+JSON Summary File: Celo_TUPM-26-1941_cybersecurity_summary.json
+Backup File: Celo_TUPM-26-1941_cybersecurity_summary.json

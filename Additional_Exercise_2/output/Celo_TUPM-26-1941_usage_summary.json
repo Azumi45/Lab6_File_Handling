@@ -1,0 +1,9 @@
+{
+    "operating_system": "iOS",
+    "user_behavior_class": 2,
+    "total_records_in_dataset": 700,
+    "records_matching_operating_system": 146,
+    "records_in_target_behavior_class": 32,
+    "average_battery_drain": 872.031,
+    "average_data_usage": 451.344
+}
